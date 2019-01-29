@@ -1,0 +1,1 @@
+Classic face recognition methods
